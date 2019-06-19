@@ -23,36 +23,8 @@ It's my library of custom buttons with cool shadow-effect
 
 ## How work
 
-Use .s-btn from basic settings buttons, and add specials class
-=======
-
-# Gradow-button
-
-
-
-It's my library of custom buttons with cool shadow-effect
-
-
-
-## Getting Started
-
+  Use .s-btn from basic settings buttons, and add specials class
   
+## Example
 
-**Npm module**
-    - npm i gradow-btn
-    
-  
-
-  
-**Join file**
-    - gradow-btn.min.css
-
-
-
-## Authors
-
-*
-
-**Shemet Daniil** - [DanyaShemet](https://github.com/DanyaShemet)
->>>>>>> readme
-
+ - `<button class="s-btn b-dark-purple r-40">Dark text</button>`
