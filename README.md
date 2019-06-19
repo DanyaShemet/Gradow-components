@@ -21,7 +21,7 @@ Add `pretty-checkbox.min.css` in your html
 
  **CDN** 
 ```html
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.6/gradow-btn.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.7/gradow-btn.min.css"/>
 ```
 ## Features
 
