@@ -5,14 +5,24 @@
 ## Getting Started
   
 **Npm module**
-  - npm i gradow-btn 
-    
-**Manual download**
-  - `<link rel="stylesheet" href="<PATH>/graddow-btn/graddow-btn.min.css"/>`
-    
+
+```sh
+  >npm i gradow-btn 
+```
+
+- **Manual download** ( [`Github`](https://github.com/DanyaShemet/Gradow-components.git) )
+
+```html
+<link rel="stylesheet" href="<PATH>/graddow-btn/graddow-btn.min.css"/>
+```
+`<PATH>` is where the library is downloaded.
+
+Add `pretty-checkbox.min.css` in your html
+
  **CDN** 
-  - https://cdn.jsdelivr.net/npm/gradow-btn@1.0.3/gradow-btn.min.css
- 
+```html
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.3/gradow-btn.min.css"/>
+```
 ## Features
 
 
