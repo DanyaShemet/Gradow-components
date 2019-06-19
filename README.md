@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Gradow-button
 
-It's my library of custom buttons with cool shadow-effect
+**It's library of custom buttons with cool shadow-effect**
 
 ## Getting Started
   
