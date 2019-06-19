@@ -24,6 +24,6 @@
 
   Use .s-btn from basic settings buttons, and add specials class
   
-## Example
+  **Example**
 
  - `<button class="s-btn b-dark-purple r-40">Dark text</button>`
