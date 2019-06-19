@@ -4,7 +4,6 @@
 
 ## Getting Started
   
-
 **Npm module**
   - npm i gradow-btn 
     
@@ -16,14 +15,46 @@
  
 ## Features
 
+
+### Usage
+
+Gradow button comes with many styles,
+
+| Class name      | Description                             |
+| :----------     | :-----------------------                |
+| `s-btn`         | Basic style                             |
+| `b-primary`     | Add primary-styles(blue) for button     |
+| `b-accept`      | Add primary-styles(green) for button    |
+| `b-danger`      | Add primary-styles(red) for button      |
+| `b-info`        | Add primary-styles(yellow) for button   |
+| `b-secondary`   | Add primary-styles(grey) for button     |
+| `b-light`       | Add primary-styles(light) for button    |
+| `b-dark`        | Add primary-styles(dark) for button     |
+| `r-{number}`    | Sets the radius of the button           |
+| `w-{number}`    | Sets the width of the button            |
+| `h-{number}`    | Sets the height of the button           |
+
+
+**Example**
+
+  - Primary button
+
+```html
+  <div class="">
+     <button class="s-btn b-primary-simple">Send</button>
+  </div>
+```
+
+Buttons has extra classes for stylization size `r-30` `w-200` `h50`
+You can combine them.
+
+```html
+  <div class="">
+     <button class="s-btn b-primary-simple r-30 w-180 h-40">Send</button>
+  </div>
+```
+
+
 ## Authors
 
 **Shemet Daniil** - [DanyaShemet](https://github.com/DanyaShemet)
-
-## How work
-
-  Use .s-btn from basic settings buttons, and add specials class
-  
-  **Example**
-
- - `<button class="s-btn b-dark-purple r-40">Dark text</button>`
