@@ -1,8 +1,38 @@
+<h1 align="center">
+  <br>
+  <a href="https://danyashemet.github.io/Gradow-components/"><img src="logo.png" alt="Gradow-components" width="100"></a>
+  <br> <br> Gradow-components.css <br>
+</h1>
+
+<div class="highlight highlight-source-shell">
+<pre>
+<div align="center"><strong >Demo and documentation</strong></div>
+<div align="center"><a align="center" href="https://danyashemet.github.io/Gradow-components/">https://danyashemet.github.io/Gradow-components/</a></div>
+</pre>
+</div>
+
+
 # Gradow-button
 
 **It's library of custom buttons with cool shadow-effect**
 
-## Getting Started
+## Features
+* Basic
+  - **Border-radius**   - 
+  - **Variants** - *Default*, *Fill*, *Thick*
+  - **Colors** - *Primary*, *Accept *, *Info*, *Secondary *, *Danger* , *Light  *, *Dark * 
+  - **Animations** - *Smooth*, *Tada*, *Jelly*, *Pulse*, *Rotate*
+ * Switch - iOS style - *Outline*, *Fill*, *Slim*
+ * Responsive
+ * No JavaScript
+ * Custom Font Icons
+ * Image support
+ * State - *Focus*, *Hover*
+ * Supports frameworks - *Bootstrap*, *Foundation*, *Sematic UI*, *Bulma*, ...
+ * Supports all modern browsers, including mobile devices
+ * Print friendly
+
+## Installation
   
 **Npm module**
 
@@ -23,8 +53,6 @@ Add `pretty-checkbox.min.css` in your html
 ```html
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.7/gradow-btn.min.css"/>
 ```
-## Features
-
 
 ### Usage
 
@@ -54,6 +82,16 @@ Gradow button comes with many styles,
      <button class="s-btn b-primary-simple">Send</button>
   </div>
 ```
+<div align="center"><strong >---</strong></div>
+
+  - Accept button
+
+```html
+  <div class="">
+     <button class="s-btn b-accept-simple">Send</button>
+  </div>
+```
+<div align="center"><strong >---</strong></div>
 
 Buttons has extra classes for stylization size `r-30` `w-200` `h50`
 You can combine them.
@@ -63,7 +101,13 @@ You can combine them.
      <button class="s-btn b-primary-simple r-30 w-180 h-40">Send</button>
   </div>
 ```
+<div align="center"><strong >---</strong></div>
 
+### Browser support
+
+Works in all modern browsers.
+
+`Chrome >= 26` `Firefox >= 16` `Safari >= 6.1` `Opera >= 15` `IE >= 9`
 
 ## Authors
 
