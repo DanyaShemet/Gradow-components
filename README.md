@@ -1,7 +1,6 @@
 <h1 align="center">
-  <br>
-  <a href="https://danyashemet.github.io/Gradow-components/"><img src="logo.png" alt="Gradow-components" width="100"></a>
-  <br> <br> Gradow-components.css <br>
+
+ <br> Gradow-components.css <br>
 </h1>
 
 <div class="highlight highlight-source-shell">
