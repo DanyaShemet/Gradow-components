@@ -46,7 +46,7 @@
 ```
 `<PATH>` is where the library is downloaded.
 
-Add `pretty-checkbox.min.css` in your html
+Add `graddow-btn.min.css` in your html
 
  **CDN** 
 ```html
