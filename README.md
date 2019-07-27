@@ -18,14 +18,10 @@
 ## Features
 * Basic
   - **Border-radius**   - 
-  - **Variants** - *Default*, *Fill*, *Thick*
   - **Colors** - *Primary*, *Accept *, *Info*, *Secondary *, *Danger* , *Light  *, *Dark * 
-  - **Animations** - *Smooth*, *Tada*, *Jelly*, *Pulse*, *Rotate*
- * Switch - iOS style - *Outline*, *Fill*, *Slim*
+  - **Animations** 
  * Responsive
  * No JavaScript
- * Custom Font Icons
- * Image support
  * State - *Focus*, *Hover*
  * Supports frameworks - *Bootstrap*, *Foundation*, *Sematic UI*, *Bulma*, ...
  * Supports all modern browsers, including mobile devices
