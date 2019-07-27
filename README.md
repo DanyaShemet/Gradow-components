@@ -76,7 +76,7 @@ Gradow button comes with many styles,
 
 ```html
   <div class="">
-     <button class="s-btn b-primary-simple r-20  w-170 h-30">Send</button>
+     <button class="s-btn b-primary-simple r-20 w-170 h-30">Send</button>
   </div>
 ```
 
@@ -91,9 +91,13 @@ Gradow button comes with many styles,
 
 ```html
   <div class="">
-     <button class="s-btn b-accept-simple">Send</button>
+     <button class="s-btn b-accept-simple r-10 h-30">Accept</button>
   </div>
 ```
+<div align="center">
+     <button class="s-btn b-accept-simple r-10 h-30">Accept</button>
+  </div>
+
 <div align="center"><strong >---</strong></div>
 
 Buttons has extra classes for stylization size `r-30` `w-200` `h50`
