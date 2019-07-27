@@ -131,13 +131,13 @@ You can combine them.
   
 | ClassList                        | Example                                                                               |
 | :----------                      | :-------------------------------------------------------------------                        |
-| `b-accept-simple s-btn`          | <button class="s-btn b-accept-simple" style=" margin: 10px;">Confirm</button>      |
-| `b-accept-dark s-btn`            | <button class="s-btn b-accept-dark " style=" margin: 10px;">Confirm</button>      |
-| `b-accept-foggy s-btn`           | <button class="s-btn b-accept-foggy" style="margin: 10px;">Confirm</button>      |
-| `b-accept-common s-btn`          | <button class="s-btn b-accept-common " style=" margin: 10px;">Confirm</button>     |
-| `b-accept-mysterious s-btn`      | <button class="s-btn b-accept-mysterious " style=" margin: 10px;">Confirm</button>  |
-| `b-accept-smile s-btn`           | <button class="s-btn b-accept-smile " style=" margin: 10px;">Confirm</button>      |
-| `b-accept-swim s-btn`            | <button class="s-btn b-accept-swim " style=" margin: 10px;">Confirm</button>|
+| `b-accept-simple s-btn`          | <button class="s-btn b-accept-simple" style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-dark s-btn`            | <button class="s-btn b-accept-dark " style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-foggy s-btn`           | <button class="s-btn b-accept-foggy" style="color: #fff;margin: 10px;">Confirm</button>      |
+| `b-accept-common s-btn`          | <button class="s-btn b-accept-common " style="color: #fff; margin: 10px;">Confirm</button>     |
+| `b-accept-mysterious s-btn`      | <button class="s-btn b-accept-mysterious " style="color: #fff; margin: 10px;">Confirm</button>  |
+| `b-accept-smile s-btn`           | <button class="s-btn b-accept-smile " style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-swim s-btn`            | <button class="s-btn b-accept-swim " style="color: #fff; margin: 10px;">Confirm</button>|
 
 <div align="center"><strong >---</strong></div>
 
@@ -145,11 +145,61 @@ You can combine them.
   
 | ClassList                        | Example                                                                               |
 | :----------                      | :-------------------------------------------------------------------                        |
-| `b-info-simple s-btn`            | <button class="s-btn b-info-simple" style=" margin: 10px;">Forward</button>      |
-| `b-info-dark s-btn`              | <button class="s-btn b-info-dark " style=" margin: 10px;">Forward</button>      |
-| `b-info-foggy s-btn`             | <button class="s-btn b-info-foggy" style=" margin: 10px;">Forward</button>      |
-| `b-info-common s-btn`            | <button class="s-btn b-info-common " style=" margin: 10px;">Forward</button>     |
-| `b-info-mysterious s-btn`        | <button class="s-btn b-info-mysterious " style=" margin: 10px;">Forward</button>  |
+| `b-info-simple s-btn`            | <button class="s-btn b-info-simple" style="color: #000; margin: 10px;">Forward</button>      |
+| `b-info-dark s-btn`              | <button class="s-btn b-info-dark " style="color: #000; margin: 10px;">Forward</button>      |
+| `b-info-foggy s-btn`             | <button class="s-btn b-info-foggy" style="color: #000; margin: 10px;">Forward</button>      |
+| `b-info-common s-btn`            | <button class="s-btn b-info-common " style="color: #000; margin: 10px;">Forward</button>     |
+| `b-info-mysterious s-btn`        | <button class="s-btn b-info-mysterious " style="color: #000; margin: 10px;">Forward</button>  |
+
+<div align="center"><strong >---</strong></div>
+
+  **Secondary** 
+  
+| ClassList                          | Example                                                                               |
+| :----------                        | :-------------------------------------------------------------------                        |
+| `b-second-simple s-btn`            | <button class="s-btn b-second-simple" style="color: #000; margin: 10px;">Registration</button>      |
+| `b-second-dark s-btn`              | <button class="s-btn b-second-dark " style="color: #000; margin: 10px;">Registration</button>      |
+| `b-second-light s-btn`             | <button class="s-btn b-second-light" style="color: #000; margin: 10px;">Registration</button>      |
+| `b-second-mysterious s-btn`        | <button class="s-btn b-second-mysterious " style="color: #000; margin: 10px;">Registration</button>     |
+| `b-second-smile s-btn`             | <button class="s-btn b-second-smile" style="color: #000; margin: 10px;">Registration</button>  |
+
+<div align="center"><strong >---</strong></div>
+
+  **Danger** 
+  
+| ClassList                          | Example                                                                               |
+| :----------                        | :-------------------------------------------------------------------                        |
+| `b-danger-brightly s-btn`          | <button class="s-btn b-danger-brightly" style="color: #000; margin: 10px;">Buy right now</button>      |
+| `b-danger-cta s-btn`               | <button class="s-btn b-danger-cta " style="color: #000; margin: 10px;">Buy right now</button>      |
+| `b-danger-pretty s-btn`            | <button class="s-btn b-danger-pretty" style="color: #000; margin: 10px;">Buy right now</button>      |
+| `b-danger-dark s-btn`              | <button class="s-btn b-danger-dark " style="color: #000; margin: 10px;">Buy right now</button>     |
+| `b-danger-smile s-btn`             | <button class="s-btn b-danger-smile" style="color: #000; margin: 10px;">Buy right now</button>  |
+| `b-danger-mysterious s-btn`        | <button class="s-btn b-danger-mysterious " style="color: #000; margin: 10px;">Buy right now</button>     |
+| `b-danger-light s-btn`             | <button class="s-btn b-danger-light" style="color: #000; margin: 10px;">Buy right now</button>  |
+
+<div align="center"><strong >---</strong></div>
+
+  **Light** 
+  
+| ClassList                          | Example                                                                               |
+| :----------                        | :-------------------------------------------------------------------                        |
+| `b-light-sun s-btn`                | <button class="s-btn b-light-sun" style="color: #000; margin: 10px;">Light text</button>      |
+| `b-light-sky s-btn`                | <button class="s-btn b-light-sky " style="color: #000; margin: 10px;">Light text</button>      |
+| `b-light-green s-btn`              | <button class="s-btn b-light-green" style="color: #000; margin: 10px;">Light text</button>      |
+| `b-light-pinkLine s-btn`           | <button class="s-btn b-light-pinkLine " style="color: #000; margin: 10px;">Light text</button>     |
+
+<div align="center"><strong >---</strong></div>
+
+  **Dark** 
+  
+| ClassList                          | Example                                                                               |
+| :----------                        | :-------------------------------------------------------------------                        |
+| `b-dark-green s-btn`               | <button class="s-btn b-dark-green" style="color: #fff; margin: 10px;">Light text</button>      |
+| `b-dark-purple s-btn`              | <button class="s-btn b-dark-purple " style="color: #fff; margin: 10px;">Light text</button>      |
+| `b-dark-burgundy s-btn`            | <button class="s-btn b-dark-burgundy" style="color: #fff; margin: 10px;">Light text</button>      |
+| `b-dark-blue s-btn`                | <button class="s-btn b-dark-blue " style="color: #fff; margin: 10px;">Light text</button>     |
+| `b-dark-grey s-btn`                | <button class="s-btn b-dark-grey " style="color: #fff; margin: 10px;">Light text</button>     |
+
 
 
 ### Browser support
@@ -162,6 +212,9 @@ Works in all modern browsers.
 
 **Shemet Daniil** - [DanyaShemet](https://github.com/DanyaShemet)
 
-
-    
-
+<div class="highlight highlight-source-shell">
+<pre>
+<div align="center"><strong >Wishing you great use.</strong></div>
+<div align="center">I will listen to the criticism and wishes<a align="center" href="mailto:shemetwork@gmail.com">here</a></div>
+</pre>
+</div>
