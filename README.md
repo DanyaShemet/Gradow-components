@@ -57,7 +57,7 @@ Gradow button comes with many styles,
 
 | Class name      | Description                             |
 | :----------     | :-----------------------                |
-| `s-btn`         | Basic style                             |
+| `s-btn`         | Basic style *required                   |
 | `b-primary`     | Add primary-styles(blue) for button     |
 | `b-accept`      | Add primary-styles(green) for button    |
 | `b-danger`      | Add primary-styles(red) for button      |
@@ -109,6 +109,21 @@ You can combine them.
   </div>
 ```
 <div align="center"><strong >---</strong></div>
+
+
+### List of all buttons
+
+  
+| Primary                   | Description                                                          |
+| :----------               | :------------------------------------------------------------------- |
+| `b-primary-simple`        | <button class="s-btn b-primary-simple r-0 custom">Send</button>      |
+| `b-primary-dark`          | <button class="s-btn b-primary-dark r-5 w-180">Send</button>         |
+| `b-primary-foggy`         | <button class="s-btn b-primary-foggy r-15 w-100">Send</button>       |
+| `b-primary-common`        | <button class="s-btn b-primary-common r-20 w-230 h-70">Send</button> |
+| `b-primary-mysterious`    | <button class="s-btn b-primary-mysterious r-25">Confirm</button>     |
+| `b-primary-rainy`         | <button class="s-btn b-primary-rainy r-25">Send</button>             |
+| `b-primary-rainy-ver_two` | <button class="s-btn b-primary-rainy-ver_two r-25">Send</button>     |
+
 
 ### Browser support
 
