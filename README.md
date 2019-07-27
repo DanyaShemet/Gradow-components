@@ -131,13 +131,13 @@ You can combine them.
   
 | ClassList                        | Example                                                                               |
 | :----------                      | :-------------------------------------------------------------------                        |
-| `b-accept-simple s-btn`          | <button class="s-btn b-accept-simple" style="color: #fff; margin: 10px;">Confirm</button>      |
-| `b-accept-dark s-btn`            | <button class="s-btn b-accept-dark " style="color: #fff; margin: 10px;">Confirm</button>      |
-| `b-accept-foggy s-btn`           | <button class="s-btn b-accept-foggy" style="color: #fff; margin: 10px;">Confirm</button>      |
-| `b-accept-common s-btn`          | <button class="s-btn b-accept-common " style="color: #fff; margin: 10px;">Confirm</button>     |
-| `b-accept-mysterious s-btn`      | <button class="s-btn b-accept-mysterious " style="color: #fff; margin: 10px;">Confirm</button>  |
-| `b-accept-smile s-btn`           | <button class="s-btn b-accept-smile " style="color: #fff; margin: 10px;">Confirm</button>      |
-| `b-accept-swim s-btn`            | <button class="s-btn b-accept-swim " style="color: #fff; margin: 10px;">Confirm</button>|
+| `b-accept-simple s-btn`          | <button class="s-btn b-accept-simple" style=" margin: 10px;">Confirm</button>      |
+| `b-accept-dark s-btn`            | <button class="s-btn b-accept-dark " style=" margin: 10px;">Confirm</button>      |
+| `b-accept-foggy s-btn`           | <button class="s-btn b-accept-foggy" style="margin: 10px;">Confirm</button>      |
+| `b-accept-common s-btn`          | <button class="s-btn b-accept-common " style=" margin: 10px;">Confirm</button>     |
+| `b-accept-mysterious s-btn`      | <button class="s-btn b-accept-mysterious " style=" margin: 10px;">Confirm</button>  |
+| `b-accept-smile s-btn`           | <button class="s-btn b-accept-smile " style=" margin: 10px;">Confirm</button>      |
+| `b-accept-swim s-btn`            | <button class="s-btn b-accept-swim " style=" margin: 10px;">Confirm</button>|
 
 <div align="center"><strong >---</strong></div>
 
@@ -145,11 +145,11 @@ You can combine them.
   
 | ClassList                        | Example                                                                               |
 | :----------                      | :-------------------------------------------------------------------                        |
-| `b-info-simple s-btn`            | <button class="s-btn b-info-simple" style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-dark s-btn`              | <button class="s-btn b-info-dark " style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-foggy s-btn`             | <button class="s-btn b-info-foggy" style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-common s-btn`            | <button class="s-btn b-info-common " style="color: #fff; margin: 10px;">Forward</button>     |
-| `b-info-mysterious s-btn`        | <button class="s-btn b-info-mysterious " style="color: #fff; margin: 10px;">Forward</button>  |
+| `b-info-simple s-btn`            | <button class="s-btn b-info-simple" style=" margin: 10px;">Forward</button>      |
+| `b-info-dark s-btn`              | <button class="s-btn b-info-dark " style=" margin: 10px;">Forward</button>      |
+| `b-info-foggy s-btn`             | <button class="s-btn b-info-foggy" style=" margin: 10px;">Forward</button>      |
+| `b-info-common s-btn`            | <button class="s-btn b-info-common " style=" margin: 10px;">Forward</button>     |
+| `b-info-mysterious s-btn`        | <button class="s-btn b-info-mysterious " style=" margin: 10px;">Forward</button>  |
 
 
 ### Browser support
