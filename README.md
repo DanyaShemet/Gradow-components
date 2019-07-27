@@ -215,6 +215,6 @@ Works in all modern browsers.
 <div class="highlight highlight-source-shell">
 <pre>
 <div align="center"><strong >Wishing you great use.</strong></div>
-<div align="center">I will listen to the criticism and wishes<a align="center" href="mailto:shemetwork@gmail.com">here</a></div>
+<div align="center">I will listen to the criticism and wishes <a align="center" href="mailto:shemetwork@gmail.com">here</a></div>
 </pre>
 </div>
