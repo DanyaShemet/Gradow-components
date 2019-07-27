@@ -107,3 +107,7 @@ Works in all modern browsers.
 ## Authors
 
 **Shemet Daniil** - [DanyaShemet](https://github.com/DanyaShemet)
+
+ <div class="">
+     <button class="s-btn b-primary-simple r-30 w-180 h-40">Send</button>
+  </div>
