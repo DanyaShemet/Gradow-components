@@ -114,15 +114,15 @@ You can combine them.
 ### List of all buttons
 
   
-| Primary                   | Description                                                          |
-| :----------               | :------------------------------------------------------------------- |
-| `b-primary-simple`        | <button class="s-btn b-primary-simple r-0 custom">Send</button>      |
-| `b-primary-dark`          | <button class="s-btn b-primary-dark r-5 w-180">Send</button>         |
-| `b-primary-foggy`         | <button class="s-btn b-primary-foggy r-15 w-100">Send</button>       |
-| `b-primary-common`        | <button class="s-btn b-primary-common r-20 w-230 h-70">Send</button> |
-| `b-primary-mysterious`    | <button class="s-btn b-primary-mysterious r-25">Send</button>     |
-| `b-primary-rainy`         | <button class="s-btn b-primary-rainy r-25">Send</button>             |
-| `b-primary-rainy-ver_two` | <button class="s-btn b-primary-rainy-ver_two r-25">Send</button>     |
+| Primary                   | Description                                                                                 |
+| :----------               | :-------------------------------------------------------------------                        |
+| `b-primary-simple`        | <button class="s-btn b-primary-simpler-10 w-170 h-40" style="color: #fff>Send</button>      |
+| `b-primary-dark`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff">Send</button>      |
+| `b-primary-foggy`         | <button class="s-btn b-primary-foggy r-10 w-170 h-40" style="color: #fff>Send</button>      |
+| `b-primary-common`        | <button class="s-btn b-primary-common r-10 w-170 h-40" style="color: #fff>Send</button>     |
+| `b-primary-mysterious`    | <button class="s-btn b-primary-mysteriousr-10 w-170 h-40" style="color: #fff>Send</button>  |
+| `b-primary-rainy`         | <button class="s-btn b-primary-rainy r-10 w-170 h-40" style="color: #fff>Send</button>      |
+| `b-primary-rainy-ver_two` | <button class="s-btn b-primary-rainy-ver_two r-10 w-170 h-40" style="color: #fff">Send</button>|
 
 
 ### Browser support
