@@ -1,5 +1,5 @@
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.7/gradow-btn.min.css"/>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.9/gradow-btn.min.css"/>
 <h1 align="center">
 
  <br> Gradow-components.css <br>
@@ -112,6 +112,7 @@ You can combine them.
 
 
 ### List of all buttons
+
   **Primary** 
   
 | ClassList                 | Example                                                                               |
@@ -123,6 +124,19 @@ You can combine them.
 | `b-primary-mysterious s-btn`    | <button class="s-btn b-primary-mysterious r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>  |
 | `b-primary-rainy s-btn`         | <button class="s-btn b-primary-rainy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
 | `b-primary-rainy-ver_two s-btn` | <button class="s-btn b-primary-rainy-ver_two r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>|
+
+
+  **Primary** 
+  
+| ClassList                 | Example                                                                               |
+| :----------               | :-------------------------------------------------------------------                        |
+| `b-accept-simple s-btn`        | <button class="s-btn b-accept-simple" style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-dark s-btn`          | <button class="s-btn b-accept-dark " style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-foggy s-btn`         | <button class="s-btn b-accept-foggy" style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-common s-btn`        | <button class="s-btn b-accept-common " style="color: #fff; margin: 10px;">Confirm</button>     |
+| `b-accept-mysterious s-btn`    | <button class="s-btn b-accept-mysterious " style="color: #fff; margin: 10px;">Confirm</button>  |
+| `b-accept-smile s-btn`         | <button class="s-btn b-accept-smile " style="color: #fff; margin: 10px;">Confirm</button>      |
+| `b-accept-swim s-btn`          | <button class="s-btn b-accept-swim " style="color: #fff; margin: 10px;">Confirm</button>|
 
 
 ### Browser support
