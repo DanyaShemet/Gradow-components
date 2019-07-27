@@ -116,13 +116,13 @@ You can combine them.
   
 | ClassList                 | Example                                                                               |
 | :----------               | :-------------------------------------------------------------------                        |
-| `b-primary-simple`        | <button class="s-btn b-primary-simple r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-dark`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-foggy`         | <button class="s-btn b-primary-foggy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-common`        | <button class="s-btn b-primary-common r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>     |
-| `b-primary-mysterious`    | <button class="s-btn b-primary-mysterious r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>  |
-| `b-primary-rainy`         | <button class="s-btn b-primary-rainy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-rainy-ver_two` | <button class="s-btn b-primary-rainy-ver_two r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>|
+| `b-primary-simple s-btn`        | <button class="s-btn b-primary-simple r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-dark s-btn`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-foggy s-btn`         | <button class="s-btn b-primary-foggy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-common s-btn`        | <button class="s-btn b-primary-common r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>     |
+| `b-primary-mysterious s-btn`    | <button class="s-btn b-primary-mysterious r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>  |
+| `b-primary-rainy s-btn`         | <button class="s-btn b-primary-rainy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-rainy-ver_two s-btn` | <button class="s-btn b-primary-rainy-ver_two r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>|
 
 
 ### Browser support
