@@ -78,7 +78,11 @@ Gradow button comes with many styles,
      <button class="s-btn b-primary-simple">Send</button>
   </div>
 ```
-<button class="s-btn b-primary-simple">Send</button>
+
+<div align="center">
+ <button class="s-btn b-primary-simple ">Send</button>
+</div>
+
 
 <div align="center"><strong >---</strong></div>
 
