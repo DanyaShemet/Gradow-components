@@ -114,7 +114,7 @@ You can combine them.
 ### List of all buttons
 
   
-| Primary                   | Description                                                                                 |
+| Primary                   | Example                                                                               |
 | :----------               | :-------------------------------------------------------------------                        |
 | `b-primary-simple`        | <button class="s-btn b-primary-simple r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
 | `b-primary-dark`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
