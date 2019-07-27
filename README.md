@@ -117,13 +117,13 @@ You can combine them.
   
 | ClassList                       | Example                                                                               |
 | :----------                     | :-------------------------------------------------------------------                        |
-| `b-primary-simple s-btn`        | <button class="s-btn b-primary-simple r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-dark s-btn`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-foggy s-btn`         | <button class="s-btn b-primary-foggy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-common s-btn`        | <button class="s-btn b-primary-common r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>     |
-| `b-primary-mysterious s-btn`    | <button class="s-btn b-primary-mysterious r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>  |
-| `b-primary-rainy s-btn`         | <button class="s-btn b-primary-rainy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
-| `b-primary-rainy-ver_two s-btn` | <button class="s-btn b-primary-rainy-ver_two r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>|
+| `b-primary-simple s-btn`        | <button class="s-btn b-primary-simple" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-dark s-btn`          | <button class="s-btn b-primary-dark" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-foggy s-btn`         | <button class="s-btn b-primary-foggy" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-common s-btn`        | <button class="s-btn b-primary-common" style="color: #fff; margin: 10px;">Send</button>     |
+| `b-primary-mysterious s-btn`    | <button class="s-btn b-primary-mysterious" style="color: #fff; margin: 10px;">Send</button>  |
+| `b-primary-rainy s-btn`         | <button class="s-btn b-primary-rainy" style="color: #fff; margin: 10px;">Send</button>      |
+| `b-primary-rainy-ver_two s-btn` | <button class="s-btn b-primary-rainy-ver_two" style="color: #fff; margin: 10px;">Send</button>|
 
 <div align="center"><strong >---</strong></div>
 
@@ -145,11 +145,11 @@ You can combine them.
   
 | ClassList                        | Example                                                                               |
 | :----------                      | :-------------------------------------------------------------------                        |
-| `b-info-simple s-btn`            | <button class="s-btn b-accept-simple" style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-dark s-btn`              | <button class="s-btn b-accept-dark " style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-foggy s-btn`             | <button class="s-btn b-accept-foggy" style="color: #fff; margin: 10px;">Forward</button>      |
-| `b-info-common s-btn`            | <button class="s-btn b-accept-common " style="color: #fff; margin: 10px;">Forward</button>     |
-| `b-info-mysterious s-btn`        | <button class="s-btn b-accept-mysterious " style="color: #fff; margin: 10px;">Forward</button>  |
+| `b-info-simple s-btn`            | <button class="s-btn b-info-simple" style="color: #fff; margin: 10px;">Forward</button>      |
+| `b-info-dark s-btn`              | <button class="s-btn b-info-dark " style="color: #fff; margin: 10px;">Forward</button>      |
+| `b-info-foggy s-btn`             | <button class="s-btn b-info-foggy" style="color: #fff; margin: 10px;">Forward</button>      |
+| `b-info-common s-btn`            | <button class="s-btn b-info-common " style="color: #fff; margin: 10px;">Forward</button>     |
+| `b-info-mysterious s-btn`        | <button class="s-btn b-info-mysterious " style="color: #fff; margin: 10px;">Forward</button>  |
 
 
 ### Browser support
