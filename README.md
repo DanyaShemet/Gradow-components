@@ -1,6 +1,7 @@
 
-<h1 align="center">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.7/gradow-btn.min.css"/>
+<h1 align="center">
+
  <br> Gradow-components.css <br>
 </h1>
 
@@ -80,7 +81,7 @@ Gradow button comes with many styles,
 ```
 
 <div align="center">
- <button class="s-btn b-primary-simple ">Send</button>
+ <button class="s-btn b-primary-simple " style="color: #fff">Send</button>
 </div>
 
 
