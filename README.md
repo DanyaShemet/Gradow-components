@@ -105,7 +105,7 @@ You can combine them.
 
 ```html
   <div class="">
-     <button class="s-btn b-primary-simple r-30 w-180 h-40">Send</button>
+     <button class="s-btn b-primary-simple r-30 w-180 h-40" style="color: #fff">Send</button>
   </div>
 ```
 <div align="center"><strong >---</strong></div>
