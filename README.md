@@ -1,5 +1,6 @@
-<h1 align="center">
 
+<h1 align="center">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.7/gradow-btn.min.css"/>
  <br> Gradow-components.css <br>
 </h1>
 
@@ -77,6 +78,8 @@ Gradow button comes with many styles,
      <button class="s-btn b-primary-simple">Send</button>
   </div>
 ```
+<button class="s-btn b-primary-simple">Send</button>
+
 <div align="center"><strong >---</strong></div>
 
   - Accept button
@@ -108,6 +111,6 @@ Works in all modern browsers.
 
 **Shemet Daniil** - [DanyaShemet](https://github.com/DanyaShemet)
 
- <div class="">
-     <button class="s-btn b-primary-simple r-30 w-180 h-40">Send</button>
-  </div>
+
+    
+
