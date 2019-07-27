@@ -1,5 +1,5 @@
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.9/gradow-btn.min.css"/>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.1.0/gradow-btn.min.css"/>
 <h1 align="center">
 
  <br> Gradow-components.css <br>
@@ -48,7 +48,7 @@ Add `graddow-btn.min.css` in your html
 
  **CDN** 
 ```html
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.0.9/gradow-btn.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gradow-btn@1.1.0/gradow-btn.min.css"/>
 ```
 
 ### Usage
@@ -115,8 +115,8 @@ You can combine them.
 
   **Primary** 
   
-| ClassList                 | Example                                                                               |
-| :----------               | :-------------------------------------------------------------------                        |
+| ClassList                       | Example                                                                               |
+| :----------                     | :-------------------------------------------------------------------                        |
 | `b-primary-simple s-btn`        | <button class="s-btn b-primary-simple r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
 | `b-primary-dark s-btn`          | <button class="s-btn b-primary-dark r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
 | `b-primary-foggy s-btn`         | <button class="s-btn b-primary-foggy r-10 w-170 h-40" style="color: #fff; margin: 10px;">Send</button>      |
@@ -128,8 +128,8 @@ You can combine them.
 
   **Primary** 
   
-| ClassList                 | Example                                                                               |
-| :----------               | :-------------------------------------------------------------------                        |
+| ClassList                      | Example                                                                               |
+| :----------                    | :-------------------------------------------------------------------                        |
 | `b-accept-simple s-btn`        | <button class="s-btn b-accept-simple" style="color: #fff; margin: 10px;">Confirm</button>      |
 | `b-accept-dark s-btn`          | <button class="s-btn b-accept-dark " style="color: #fff; margin: 10px;">Confirm</button>      |
 | `b-accept-foggy s-btn`         | <button class="s-btn b-accept-foggy" style="color: #fff; margin: 10px;">Confirm</button>      |
