@@ -76,12 +76,12 @@ Gradow button comes with many styles,
 
 ```html
   <div class="">
-     <button class="s-btn b-primary-simple">Send</button>
+     <button class="s-btn b-primary-simple r-20  w-170 h-30">Send</button>
   </div>
 ```
 
 <div align="center">
- <button class="s-btn b-primary-simple " style="color: #fff">Send</button>
+ <button class="s-btn b-primary-simple r-20 w-170 h-30" style="color: #fff">Send</button>
 </div>
 
 
